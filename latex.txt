@@ -1,0 +1,1027 @@
+DO NOT USE THESE LINKS:
+
+\bibitem{robertson2009bm25}
+S.~E. Robertson and H. Zaragoza.
+The probabilistic relevance framework: BM25 and beyond.
+\emph{Foundations and Trends in IR}, 3(4):333--389, 2009.
+
+\bibitem{reimers2019sentencebert}
+N. Reimers and I. Gurevych.
+Sentence-BERT: Sentence embeddings using Siamese BERT-networks.
+In \emph{EMNLP}, 2019.
+
+\bibitem{johnson2017faiss}
+J. Johnson, M. Douze, H. Jégou.
+Billion-scale similarity search with GPUs (FAISS).
+\emph{arXiv:1702.08734}, 2017.
+
+\bibitem{carbonell1998mmr}
+J. Carbonell and J. Goldstein.
+The use of MMR, diversity-based reranking for reordering documents and producing summaries.
+In \emph{SIGIR}, 1998.
+
+\bibitem{activeforlife57}
+Active for Life.
+57 fun physical activities to do with kids aged 2 to 4.
+\url{https://activeforlife.com/57-fun-physical-activities-to-do-with-kids-aged-2-to-4/}, 2024.
+
+\bibitem{activeforlife50}
+Active for Life.
+50 indoor physical activities for kids.
+\url{https://activeforlife.com/50-indoor-physical-activities-for-kids/}, 2024.
+
+\bibitem{oxfordowl}
+Oxford Owl.
+Fun learning activities for 6--7 year olds.
+\url{https://home.oxfordowl.co.uk/kids-activities/learning-activities-age-6-7/}, 2025.
+
+\bibitem{positiveaction}
+Positive Action.
+20 evidence-based social skills activities and games for kids.
+\url{https://www.positiveaction.net/blog/social-skills-activities-and-games-for-kids}, 2024.
+
+\bibitem{escaperoom}
+Escape Room Geeks.
+30 indoor games for kids to burn out energy at home.
+\url{https://escaperoomgeeks.com/indoor-games-for-kids/}, 2024.
+
+\bibitem{greenlight50}
+Greenlight.
+50+ fun activities for teens: Indoor \& outdoor ideas.
+\url{https://greenlight.com/learning-center/parenting-and-family/top-50-fun-activities-for-teens}, 2024.
+
+\bibitem{actuallymummy}
+Actually Mummy.
+Activities for teens - 88 things for bored teenagers to do at home.
+\url{https://actuallymummy.co.uk/activities-for-teenagers-during-lockdown/}, 2023.
+
+\bibitem{morty}
+Morty.
+The ultimate teen bucket list: 20+ activities to do with teenagers.
+\url{https://morty.app/blog/activities-to-do-with-teenagers}, 2024.
+
+\bibitem{stayathomemom}
+The Stay at Home Mom Survival Guide.
+Summer fun ideas for teens and tweens.
+\url{https://thestay-at-home-momsurvivalguide.com/summer-fun-ideas-for-teens-and-tweens/}, 2025.
+
+\bibitem{yourteenmag}
+Your Teen Magazine.
+100 screen free activities for bored teens.
+\url{https://yourteenmag.com/family-life/communication/100-things-teenagers-can-do-without-screens}, 2024.
+
+\bibitem{classpop}
+ClassPop.
+Indoor activities in Toronto | 27 best in 2025.
+\url{https://www.classpop.com/magazine/indoor-activities-in-toronto}, 2025.
+
+\bibitem{partygoat}
+Party Goat.
+23 fun youth group games - a list of hilarious games 2023.
+\url{https://partygoat.com/en-ca/blogs/party-guide/fun-youth-group-games-list}, 2023.
+
+\bibitem{playmeo}
+Playmeo.
+The 20 best team building activities for teens.
+\url{https://www.playmeo.com/the-20-best-team-building-activities-for-teens/}, 2024.
+
+\bibitem{kidsoutabout}
+Kids Out and About.
+Top 20 places to take kids in and around Toronto.
+\url{https://toronto.kidsoutandabout.com/content/top-20-places-take-kids-and-around-toronto}, 2024.
+
+\bibitem{seedbed}
+Seedbed.
+Top 20 youth group games.
+\url{https://seedbed.com/top-20-youth-group-games/}, 2021.
+
+\bibitem{itsalwaysautumn}
+Its Always Autumn.
+100 fun summer activities for teens and tweens.
+\url{https://www.itsalwaysautumn.com/100-fun-summer-activities-for-teens-and-tweens.html}, 2024.
+
+\bibitem{mustlovelists}
+Must Love Lists.
+150 summer fun ideas for teens (free printable list).
+\url{https://mustlovelists.com/summer-fun-ideas-for-teens/}, 2025.
+
+\bibitem{feellikehome}
+Feel Like Home Blog.
+The ultimate list of things for tweens \& teens to do when they're bored: 200 ideas printable.
+\url{https://feelslikehomeblog.com/the-ultimate-list-of-things-for-tweens-teens-to-do-when-theyre-bored-200-ideas-printable/}, 2024.
+
+\bibitem{greenlight200}
+Greenlight.
+200 fun summer bucket list ideas for kids and teens.
+\url{https://greenlight.com/learning-center/spotlight-stories/summer-bucket-list-ideas}, 2024.
+
+\bibitem{maryhannawilson}
+Mary Hannah Wilson.
+51 fun things to do at home for bored teens.
+\url{https://www.maryhannawilson.com/bored-teens/}, 2023.
+
+\bibitem{hypergogo}
+Hyper GoGo.
+Over 100 fun family outdoor activities guide.
+\url{https://www.hypergogo.com/blogs/lifestyle/family-outdoor-activities-101}, 2024.
+
+\bibitem{happiestbaby}
+Happiest Baby.
+Fun indoor activities for toddlers.
+\url{https://www.happiestbaby.com/blogs/toddler/indoor-activities-for-toddlers}, 2024.
+
+\bibitem{momswhothink}
+Moms Who Think.
+40 fun and creative arts and crafts for kids.
+\url{https://www.momswhothink.com/arts-and-crafts-for-kids/}, 2024.
+
+\bibitem{themaven}
+The Maven.
+25 outdoor activities for kids that encourage adventure.
+\url{https://www.themaven.net/outdoor-activities-kids}, 2024.
+
+\bibitem{busytoddler}
+Busy Toddler.
+Easy toddler activities.
+\url{https://busytoddler.com/easy-toddler-activities/}, 2024.
+
+\bibitem{funwithmama}
+Fun with Mama.
+100+ fun sensory play ideas for babies and toddlers.
+\url{https://funwithmama.com/sensory-play-ideas/}, 2024.
+
+\bibitem{hellowonderful}
+Hello Wonderful.
+Easy craft ideas for kids.
+\url{https://www.hellowonderful.co/craft-ideas-for-kids/}, 2024.
+
+\bibitem{artfulparent}
+The Artful Parent.
+Process art activities for kids.
+\url{https://www.artfulparent.com/process-art-activities/}, 2024.
+
+\bibitem{learningresources}
+Learning Resources.
+STEM activities for kids.
+\url{https://www.learningresources.com/blog/stem-activities-for-kids}, 2024.
+
+\bibitem{pbs}
+PBS Kids.
+Science activities and experiments.
+\url{https://www.pbs.org/parents/crafts-and-experiments/science-activities}, 2024.
+
+\bibitem{kidsactivitiesblog}
+Kids Activities Blog.
+101 easy activities for preschoolers.
+\url{https://kidsactivitiesblog.com/activities-for-preschoolers/}, 2024.
+
+\bibitem{messylittlemonster}
+Messy Little Monster.
+Crafts and activities for kids.
+\url{https://www.messylittlemonster.com/}, 2024.
+
+\bibitem{redtricycle}
+Red Tricycle.
+Activities and crafts for kids.
+\url{https://redtri.com/activities-crafts/}, 2024.
+
+\bibitem{handsonaswegrow}
+Hands On As We Grow.
+Activities for toddlers and preschoolers.
+\url{https://handsonaswegrow.com/activities-by-age/}, 2024.
+
+\bibitem{artycraftykids}
+Arty Crafty Kids.
+Art and craft ideas for kids.
+\url{https://www.artycraftykids.com/art/}, 2024.
+
+\bibitem{theeducatorsspinonit}
+The Educators' Spin On It.
+Educational activities for kids.
+\url{https://theeducatorsspinonit.com/activities-kids/}, 2024.
+
+\bibitem{rhythmsofplay}
+Rhythms of Play.
+Creative play activities for children.
+\url{https://rhythmsofplay.com/creative-activities-for-kids/}, 2024.
+
+\bibitem{growingajeweledrose}
+Growing A Jeweled Rose.
+STEAM activities for kids.
+\url{https://growingajeweledrose.com/steam-activities-kids/}, 2024.
+
+\bibitem{steamsational}
+STEAMsational.
+STEM and STEAM activities.
+\url{https://steamsational.com/stem-activities/}, 2024.
+
+\bibitem{sciencesparks}
+Science Sparks.
+Science experiments for kids.
+\url{https://www.science-sparks.com/science-experiments-for-kids/}, 2024.
+
+\bibitem{leftbraincraftbrain}
+Left Brain Craft Brain.
+STEM activities and crafts.
+\url{https://leftbraincraftbrain.com/stem-activities/}, 2024.
+
+\bibitem{playtolearnpreschool}
+Play to Learn Preschool.
+Preschool activities and crafts.
+\url{https://www.playtolearnpreschool.us/preschool-activities/}, 2024.
+
+\bibitem{funlearningforkids}
+Fun Learning for Kids.
+Educational activities and printables.
+\url{https://funlearningforkids.com/activities/}, 2024.
+
+\bibitem{preschoolinspirations}
+Preschool Inspirations.
+Preschool learning activities.
+\url{https://preschoolinspirations.com/preschool-activities/}, 2024.
+
+\bibitem{teachpreschool}
+Teach Preschool.
+Activities for early childhood education.
+\url{https://teachpreschool.org/category/activities/}, 2024.
+
+\bibitem{fantasticfunandlearning}
+Fantastic Fun and Learning.
+Educational activities for young children.
+\url{https://fantasticfunandlearning.com/activities-for-kids/}, 2024.
+
+\bibitem{learningideasgradesk8}
+Learning Ideas - Grades K-8.
+Educational activities for elementary students.
+\url{https://learningideasgradesk-8.com/category/activities/}, 2024.
+
+\bibitem{stemactivitiesforkids}
+STEM Activities for Kids.
+Science and engineering projects.
+\url{https://stemactivitiesforkids.com/}, 2024.
+
+\bibitem{housingaforest}
+Housing a Forest.
+Nature crafts and outdoor activities.
+\url{https://housingaforest.com/nature-crafts/}, 2024.
+
+\bibitem{thebestideasforkids}
+The Best Ideas for Kids.
+Crafts and activities for children.
+\url{https://www.thebestideasforkids.com/category/activities/}, 2024.
+
+\bibitem{simpleeverydaymom}
+Simple Everyday Mom.
+Printables and activities for kids.
+\url{https://www.simpleeverydaymom.com/activities/}, 2024.
+
+\bibitem{iheartcraftythings}
+I Heart Crafty Things.
+Kids craft ideas.
+\url{https://www.iheartcraftythings.com/category/kids-crafts/}, 2024.
+\bibitem{thesprucecrafts}
+The Spruce Crafts.
+Easy craft projects for kids.
+\url{https://www.thesprucecrafts.com/kids-crafts-4162426}, 2024.
+
+\bibitem{education}
+Education.com.
+Activities and crafts for children.
+\url{https://www.education.com/activities/}, 2024.
+
+\bibitem{parentmap}
+ParentMap.
+Things to do with kids and family activities.
+\url{https://www.parentmap.com/things-to-do-kids}, 2024.
+
+\bibitem{craftsbyamanda}
+Crafts by Amanda.
+Fun and easy craft ideas.
+\url{https://craftsbyamanda.com/category/kids-crafts/}, 2024.
+
+\bibitem{makinglifeblissful}
+Making Life Blissful.
+Kids activities and crafts.
+\url{https://makinglifeblissful.com/category/kids-activities/}, 2024.
+
+\bibitem{creativefamilyfun}
+Creative Family Fun.
+Family activities and kids crafts.
+\url{https://creativefamilyfun.net/category/activities/}, 2024.
+
+\bibitem{firefliesandmudpies}
+Fireflies and Mud Pies.
+Creative outdoor play ideas for kids.
+\url{https://www.firefliesandmudpies.com/outdoor-play-ideas/}, 2024.
+
+\bibitem{kidpillar}
+Kidpillar.
+Educational activities and games for kids.
+\url{https://kidpillar.com/activities/}, 2024.
+
+\bibitem{laughpaintcreate}
+Laugh Paint Create.
+Process art and creative activities.
+\url{https://laughpaintcreate.com/category/kids-activities/}, 2024.
+
+\bibitem{funathomewithkids}
+Fun at Home with Kids.
+Sensory play and learning activities.
+\url{https://www.funathomewithkids.com/p/activities-by-type.html}, 2024.
+
+\bibitem{theimaginationtree}
+The Imagination Tree.
+Creative play and learning activities.
+\url{https://theimaginationtree.com/category/activities/}, 2024.
+
+\bibitem{playdoughtoplato}
+Playdough to Plato.
+Learning activities for kids.
+\url{https://www.playdoughtoplato.com/learning-activities-for-kids/}, 2024.
+
+\bibitem{mylittlepoppies}
+My Little Poppies.
+Activities and crafts for young children.
+\url{https://mylittlepoppies.com/category/activities/}, 2024.
+
+\bibitem{naturalbeachliving}
+Natural Beach Living.
+Activities and learning ideas for kids.
+\url{https://naturalbeachliving.com/activities-for-kids/}, 2024.
+
+\bibitem{theinspirationedit}
+The Inspiration Edit.
+Family activities and kids crafts.
+\url{https://www.theinspirationedit.com/kids-activities/}, 2024.
+
+\bibitem{teachbesideme}
+Teach Beside Me.
+Educational activities and printables.
+\url{https://teachbesideme.com/activities/}, 2024.
+
+\bibitem{littlebinsforlittlehands}
+Little Bins for Little Hands.
+STEM and science activities.
+\url{https://littlebinsforlittlehands.com/category/activities/}, 2024.
+
+\bibitem{activitiesforkids}
+Activities for Kids.
+Outdoor and indoor play ideas.
+\url{https://www.activitiesforkids.co.uk/}, 2024.
+
+\bibitem{frugalfun4boys}
+Frugal Fun for Boys and Girls.
+STEM activities and creative play.
+\url{https://frugalfun4boys.com/category/stem-activities/}, 2024.
+
+\bibitem{ourkidthings}
+Our Kid Things.
+Family activities and kids projects.
+\url{https://ourkidthings.com/category/activities/}, 2024.
+
+\bibitem{rufflesandrainboots}
+Ruffles and Rain Boots.
+Crafts and activities for kids.
+\url{https://rufflesandrainboots.com/category/crafts-activities/}, 2024.
+
+\bibitem{pinkstripeysocks}
+Pink Stripey Socks.
+Creative activities for young learners.
+\url{https://pinkstripeysocks.com/category/activities/}, 2024.
+
+\bibitem{onelittleproject}
+One Little Project.
+Easy crafts and activities.
+\url{https://onelittleproject.com/category/kids-activities/}, 2024.
+
+\bibitem{filthwizardry}
+Filth Wizardry.
+Creative play and making.
+\url{https://filthwizardry.com/}, 2024.
+
+\bibitem{coolmompicks}
+Cool Mom Picks.
+Kids activities and family fun.
+\url{https://coolmompicks.com/blog/category/kids-activities/}, 2024.
+
+\bibitem{momtastic}
+Momtastic.
+Parenting ideas and kids activities.
+\url{https://www.momtastic.com/parenting/activities-kids/}, 2024.
+
+\bibitem{letswithmom}
+Let's Do This Mom.
+Activities and crafts for families.
+\url{https://www.letsdothismom.com/category/activities/}, 2024.
+
+\bibitem{thepragmaticparent}
+The Pragmatic Parent.
+Practical activities for kids.
+\url{https://thepragmaticparent.com/activities/}, 2024.
+
+\bibitem{simpleplayideas}
+Simple Play Ideas.
+Activities for young children.
+\url{https://simpleplayideas.com/category/activities/}, 2024.
+
+\bibitem{buggyandbuddy}
+Buggy and Buddy.
+Learning activities and kids crafts.
+\url{https://buggyandbuddy.com/activities-for-kids/}, 2024.
+\bibitem{craftwhack}
+Craft Whack.
+Creative craft projects and DIY ideas.
+\url{https://craftwhack.com/kids-crafts/}, 2024.
+
+\bibitem{pinkstripeysocks2}
+Pink Stripey Socks.
+Indoor and outdoor activities for children.
+\url{https://pinkstripeysocks.com/outdoor-activities/}, 2024.
+
+\bibitem{simpleeverydaymom2}
+Simple Everyday Mom.
+Seasonal activities and crafts.
+\url{https://www.simpleeverydaymom.com/seasonal-activities/}, 2024.
+
+\bibitem{teachersmag}
+Teachers Mag.
+Educational activities and classroom ideas.
+\url{https://teachersmag.com/activities/}, 2024.
+
+\bibitem{craftulate}
+Craftulate.
+STEM and creative play activities.
+\url{https://craftulate.com/activities/}, 2024.
+
+\bibitem{giftofcuriosity}
+Gift of Curiosity.
+Educational activities for curious kids.
+\url{https://www.giftofcuriosity.com/activities/}, 2024.
+
+\bibitem{growingbookbybook}
+Growing Book by Book.
+Literacy and learning activities.
+\url{https://growingbookbybook.com/activities/}, 2024.
+
+\bibitem{allfortheboys}
+All for the Boys.
+Activities and crafts for active kids.
+\url{https://allfortheboys.com/category/activities/}, 2024.
+
+\bibitem{hellowonderfulmom}
+Hello Wonderful Mom.
+Creative parenting and kid activities.
+\url{https://www.hellowonderful.co/post/category/activities/}, 2024.
+
+\bibitem{picklebums}
+Picklebums.
+Creative play and learning ideas.
+\url{https://picklebums.com/category/activities/}, 2024.
+
+\bibitem{teachingmama}
+Teaching Mama.
+Educational activities for home learning.
+\url{https://teachingmama.org/category/activities/}, 2024.
+
+\bibitem{creativechildcaregames}
+Creative Child Care.
+Games and activities for children.
+\url{https://creativechildcare.com/activities/}, 2024.
+
+\bibitem{funfamilycrafts}
+Fun Family Crafts.
+Family craft projects and activities.
+\url{https://funfamilycrafts.com/}, 2024.
+
+\bibitem{theeducatorsspinonit2}
+The Educators' Spin On It.
+Outdoor learning activities.
+\url{https://theeducatorsspinonit.com/outdoor-activities/}, 2024.
+
+\bibitem{theinspiredtreehouse}
+The Inspired Treehouse.
+Sensory and motor activities for kids.
+\url{https://theinspiredtreehouse.com/activities/}, 2024.
+
+\bibitem{schooltimesnippets}
+School Time Snippets.
+Learning activities and printables.
+\url{https://www.schooltimesnippets.com/activities/}, 2024.
+
+\bibitem{kidsplayandcreate}
+Kids Play and Create.
+Creative play ideas for children.
+\url{https://kidsplayandcreate.com/category/activities/}, 2024.
+
+\bibitem{craftymorning}
+Crafty Morning.
+Kids crafts and activities.
+\url{https://www.craftymorning.com/category/kids-crafts/}, 2024.
+
+\bibitem{thebesttoysfortoddlers}
+The Best Toys for Toddlers.
+Age-appropriate activities and play ideas.
+\url{https://besttoysfortoddlers.com/activities/}, 2024.
+
+\bibitem{funmoneymom}
+Fun Money Mom.
+Family activities on a budget.
+\url{https://funmoneymom.com/category/activities/}, 2024.
+
+\bibitem{momtomomnutrition}
+Mom to Mom Nutrition.
+Healthy kids activities and recipes.
+\url{https://momtomomnutrition.com/activities/}, 2024.
+
+\bibitem{themeasuredmom}
+The Measured Mom.
+Learning activities and printables for kids.
+\url{https://www.themeasuredmom.com/activities/}, 2024.
+
+\bibitem{notimeforflashcards}
+No Time for Flash Cards.
+Play-based learning activities.
+\url{https://www.notimeforflashcards.com/activities/}, 2024.
+
+\bibitem{theottoolbox}
+The OT Toolbox.
+Occupational therapy activities for kids.
+\url{https://www.theottoolbox.com/activities/}, 2024.
+
+\bibitem{momdot}
+MomDot.
+Parenting tips and kids activities.
+\url{https://momdot.com/category/activities/}, 2024.
+
+\bibitem{happyhooligans}
+Happy Hooligans.
+Activities and crafts for happy kids.
+\url{https://happyhooligans.ca/category/activities/}, 2024.
+
+\bibitem{artfulparent2}
+The Artful Parent.
+Creative art projects for families.
+\url{https://www.artfulparent.com/category/activities/}, 2024.
+
+\bibitem{playtivities}
+Playtivities.
+Playful learning activities.
+\url{https://playtivities.com/category/activities/}, 2024.
+
+\bibitem{babbledabbledo}
+Babble Dabble Do.
+STEAM projects and creative activities.
+\url{https://babbledabbledo.com/category/activities/}, 2024.
+
+\bibitem{modernparentsmessykids}
+Modern Parents Messy Kids.
+Creative activities for modern families.
+\url{https://modernparentsmessykids.com/category/activities/}, 2024.
+\bibitem{innerchildfun}
+Inner Child Fun.
+Creative activities and crafts for kids.
+\url{https://innerchildfun.com/category/activities/}, 2024.
+
+\bibitem{thechirpingmoms}
+The Chirping Moms.
+Fun activities for kids and families.
+\url{https://thechirpingmoms.com/category/activities/}, 2024.
+
+\bibitem{momsandcrafters}
+Moms and Crafters.
+DIY crafts and kids activities.
+\url{https://momsandcrafters.com/category/kids-activities/}, 2024.
+
+\bibitem{easypeasyandfun}
+Easy Peasy and Fun.
+Crafts and activities for kids.
+\url{https://www.easypeasyandfun.com/category/activities/}, 2024.
+
+\bibitem{thepinterestedparent}
+The Pinterested Parent.
+Pinterest-inspired activities for kids.
+\url{https://thepinterestedparent.com/category/activities/}, 2024.
+
+\bibitem{kidsartandcraft}
+Kids Art and Craft.
+Creative art projects for children.
+\url{https://www.kidsartandcraft.com/activities/}, 2024.
+
+\bibitem{simpleplayideas2}
+Simple Play Ideas.
+Sensory and learning activities.
+\url{https://simpleplayideas.com/sensory-activities/}, 2024.
+
+\bibitem{thejennyevolution}
+The Jenny Evolution.
+Family activities and parenting tips.
+\url{https://thejennyevolution.com/category/activities/}, 2024.
+
+\bibitem{craftsonsea}
+Crafts on Sea.
+Crafts and activities for kids.
+\url{https://craftsonsea.co.uk/category/activities/}, 2024.
+
+\bibitem{messforless}
+Mess for Less.
+Creative play and learning activities.
+\url{https://www.messforless.net/category/activities/}, 2024.
+
+\bibitem{sunnydayfamily}
+Sunny Day Family.
+Family fun activities and crafts.
+\url{https://sunnydayfamily.com/category/activities/}, 2024.
+
+\bibitem{muminthemadhouse}
+Mum in the Mad House.
+Kids activities and family fun.
+\url{https://www.muminthemadhouse.com/category/activities/}, 2024.
+
+\bibitem{thespruce}
+The Spruce.
+Home crafts and family activities.
+\url{https://www.thespruce.com/activities-for-kids-4687289}, 2024.
+
+\bibitem{craftyathome}
+Crafty at Home.
+DIY crafts and activities for families.
+\url{https://www.craftyathome.com/activities/}, 2024.
+
+\bibitem{theorganisedhousewife}
+The Organised Housewife.
+Family activities and organization.
+\url{https://theorganisedhousewife.com.au/category/activities/}, 2024.
+
+\bibitem{redtedart}
+Red Ted Art.
+Easy crafts for kids.
+\url{https://www.redtedart.com/category/activities/}, 2024.
+
+\bibitem{whatmomslove}
+What Moms Love.
+Parenting and kids activities.
+\url{https://www.whatmomslove.com/kids/activities/}, 2024.
+
+\bibitem{creativecakedesign}
+Creative Cake Design.
+Creative projects and activities.
+\url{https://www.creativecakedesign.com/activities/}, 2024.
+
+\bibitem{makeandtakes}
+Make and Takes.
+Kids crafts and activities.
+\url{https://www.makeandtakes.com/category/activities/}, 2024.
+
+\bibitem{thewondermom}
+The Wonder Mom.
+Activities and crafts for families.
+\url{https://www.thewondermom.com/category/activities/}, 2024.
+
+\bibitem{darcyandbrian}
+Darcy and Brian.
+Family activities and DIY projects.
+\url{https://darcyandbrian.com/category/activities/}, 2024.
+
+\bibitem{mamamiss}
+Mama Miss.
+Educational activities for kids.
+\url{https://mamamiss.com/category/activities/}, 2024.
+
+\bibitem{playideas}
+Play Ideas.
+Creative play activities for children.
+\url{https://playideas.com/category/activities/}, 2024.
+
+\bibitem{activityvillage}
+Activity Village.
+Crafts and activities for kids.
+\url{https://www.activityvillage.co.uk/activities}, 2024.
+
+\bibitem{onecreativemommy}
+One Creative Mommy.
+Creative activities and crafts.
+\url{https://onecreativemommy.com/category/activities/}, 2024.
+
+\bibitem{gluedtomycrafts}
+Glued to My Crafts.
+Kids craft ideas and activities.
+\url{https://gluedtomycrafts.com/category/activities/}, 2024.
+
+\bibitem{icanteachmychild}
+I Can Teach My Child.
+Learning activities for young children.
+\url{https://www.icanteachmychild.com/activities/}, 2024.
+
+\bibitem{thebestideasforkids2}
+The Best Ideas for Kids.
+Seasonal activities and crafts.
+\url{https://www.thebestideasforkids.com/seasonal-activities/}, 2024.
+
+\bibitem{thekeeperofthecheerios}
+The Keeper of the Cheerios.
+Toddler and preschool activities.
+\url{https://www.thekeeperofthecheerios.com/category/activities/}, 2024.
+
+\bibitem{craftsbycourtney}
+Crafts by Courtney.
+Creative craft tutorials for families.
+\url{https://craftsbycourtney.com/category/kids-crafts/}, 2024.
+\bibitem{smartschoolhouse}
+Smart School House.
+Educational activities and learning resources.
+\url{https://www.smartschoolhouse.com/activities/}, 2024.
+
+\bibitem{preschoolplayandlearn}
+Preschool Play and Learn.
+Activities for early childhood development.
+\url{https://preschoolplayandlearn.com/category/activities/}, 2024.
+
+\bibitem{theeducatorsroom}
+The Educators' Room.
+Teaching resources and activities.
+\url{https://theeducatorsroom.com/activities/}, 2024.
+
+\bibitem{therelaxedhomeschool}
+The Relaxed Homeschool.
+Homeschool activities and resources.
+\url{https://www.therelaxedhomeschool.com/activities/}, 2024.
+
+\bibitem{kidsworldfun}
+Kids World Fun.
+Fun activities and games for kids.
+\url{https://kidsworldfun.com/activities/}, 2024.
+
+\bibitem{123homeschool4me}
+123 Homeschool 4 Me.
+Free printables and activities.
+\url{https://www.123homeschool4me.com/activities/}, 2024.
+
+\bibitem{thecrafttrain}
+The Craft Train.
+Creative crafts and activities.
+\url{https://www.thecrafttrain.com/category/activities/}, 2024.
+
+\bibitem{creativeconnectionsforkids}
+Creative Connections for Kids.
+Process art and creative activities.
+\url{https://www.creativeconnectionsforkids.com/activities/}, 2024.
+
+\bibitem{themulticraftershome}
+The Multicrafter's Home.
+DIY projects and activities.
+\url{https://themulticraftershome.com/category/activities/}, 2024.
+
+\bibitem{simplefunforkids}
+Simple Fun for Kids.
+Easy activities for children.
+\url{https://simplefunforkids.com/category/activities/}, 2024.
+
+\bibitem{craftsforallseasons}
+Crafts for All Seasons.
+Seasonal crafts and activities.
+\url{https://craftsforallseasons.com/activities/}, 2024.
+
+\bibitem{creativebugkids}
+Creative Bug Kids.
+Art and craft activities.
+\url{https://creativebugkids.com/activities/}, 2024.
+
+\bibitem{whereimaginationgrows}
+Where Imagination Grows.
+Imaginative play activities.
+\url{https://www.whereimaginationgrows.com/activities/}, 2024.
+
+\bibitem{craftivitydesigns}
+Craftivity Designs.
+Creative activity ideas.
+\url{https://www.craftivitydesigns.com/activities/}, 2024.
+
+\bibitem{thekindergartenssmorgasboard}
+The Kindergarten Smorgasboard.
+Activities for kindergarten age.
+\url{https://kindergartenchaos.com/activities/}, 2024.
+
+\bibitem{activitymom}
+Activity Mom.
+Activities and crafts for moms and kids.
+\url{https://activitymom.com/category/activities/}, 2024.
+
+\bibitem{funwithadults}
+Fun with Adults.
+Activities for all ages.
+\url{https://funwithadults.com/kids-activities/}, 2024.
+
+\bibitem{kidsactivitiesspace}
+Kids Activities Space.
+Space for kids to learn and play.
+\url{https://kidsactivitiesspace.com/category/activities/}, 2024.
+
+\bibitem{minimonets}
+Mini Monets and Mommies.
+Art activities for little ones.
+\url{https://www.minimonetsmommies.com/activities/}, 2024.
+
+\bibitem{funfamilyactivities}
+Fun Family Activities.
+Activities for the whole family.
+\url{https://funfamilyactivities.com/category/activities/}, 2024.
+
+\bibitem{thethriftyhome}
+The Thrifty Home.
+Budget-friendly activities.
+\url{https://thethriftyhome.com/activities/}, 2024.
+
+\bibitem{totniteout}
+Tot Nite Out.
+Activities for young children.
+\url{https://totniteout.com/activities/}, 2024.
+
+\bibitem{adventuresinabox}
+Adventures in a Box.
+Creative activity boxes.
+\url{https://adventuresinabox.com/activities/}, 2024.
+
+\bibitem{thepreschooltoolbox}
+The Preschool Toolbox.
+Activities for preschool learning.
+\url{https://thepreschooltoolboxblog.com/activities/}, 2024.
+
+\bibitem{thesproutingseed}
+The Sprouting Seed.
+Nature-based activities.
+\url{https://thesproutingseed.com/activities/}, 2024.
+
+\bibitem{playfullearning}
+Playful Learning.
+Play-based educational activities.
+\url{https://playfullearning.net/activities/}, 2024.
+
+\bibitem{creativeplayandlearning}
+Creative Play and Learning.
+Creative activities for development.
+\url{https://creativeplayandlearning.com/category/activities/}, 2024.
+
+\bibitem{theuncordedlife}
+The Uncorded Life.
+Unplugged activities for families.
+\url{https://theuncordedlife.com/activities/}, 2024.
+
+\bibitem{parentingchaos}
+Parenting Chaos.
+Managing kids with fun activities.
+\url{https://parentingchaos.com/activities/}, 2024.
+
+\bibitem{kidscraftroom}
+Kids Craft Room.
+Crafts and activities for creative kids.
+\url{https://kidscraftroom.com/category/activities/}, 2024.
+
+\bibitem{preschoolactivities}
+Preschool Activities.
+Fun and educational activities for preschoolers.
+\url{https://www.preschoolactivities.us/}, 2024.
+
+\bibitem{theactivitymom}
+The Activity Mom.
+Screen-free activities for kids.
+\url{https://theactivitymom.com/}, 2024.
+
+\bibitem{teacherspayteachers}
+Teachers Pay Teachers.
+Educational resources and activities.
+\url{https://www.teacherspayteachers.com/Browse/PreK-12-Subject-Area/Activities}, 2024.
+
+\bibitem{funearlylearning}
+Fun Early Learning.
+Educational activities for young children.
+\url{https://funearlylearning.com/category/activities/}, 2024.
+
+\bibitem{powerfulmothering}
+Powerful Mothering.
+Activities and resources for intentional parenting.
+\url{https://powerfulmothering.com/activities/}, 2024.
+
+\bibitem{howweelearn}
+How Wee Learn.
+Play-based learning activities.
+\url{https://www.howweelearn.com/activities/}, 2024.
+
+\bibitem{craftscorner}
+Crafts Corner.
+Creative craft ideas and activities.
+\url{https://craftscorner.com/activities/}, 2024.
+
+\bibitem{theresourcefulmama}
+The Resourceful Mama.
+Budget-friendly family activities.
+\url{https://resourcefulmama.com/activities/}, 2024.
+
+\bibitem{preschoolteacher101}
+Preschool Teacher 101.
+Activities for preschool educators.
+\url{https://preschoolteacher101.com/activities/}, 2024.
+
+\bibitem{teachstarter}
+Teach Starter.
+Teaching resources and activities.
+\url{https://www.teachstarter.com/us/teaching-resource-category/activities/}, 2024.
+
+\bibitem{simpleathome}
+Simple at Home.
+Simple activities for family fun.
+\url{https://simpleathome.com/activities/}, 2024.
+
+\bibitem{everydaychaosandcalm}
+Everyday Chaos and Calm.
+Activities for busy families.
+\url{https://everydaychaosandcalm.com/activities/}, 2024.
+
+\bibitem{theconnectionweshare}
+The Connection We Share.
+Mindful parenting and activities.
+\url{https://theconnectionweshare.com/activities/}, 2024.
+
+\bibitem{funfamilycrafts2}
+Fun Family Crafts.
+Seasonal and holiday crafts.
+\url{https://funfamilycrafts.com/seasonal-crafts/}, 2024.
+
+\bibitem{meaningfulmama}
+Meaningful Mama.
+Intentional parenting activities.
+\url{https://meaningfulmama.com/activities/}, 2024.
+
+\bibitem{kitchencounterchronicles}
+Kitchen Counter Chronicles.
+Homeschool and family activities.
+\url{https://kitchencounterchronicles.com/activities/}, 2024.
+
+\bibitem{littlehandsbigwork}
+Little Hands Big Work.
+Montessori-inspired activities.
+\url{https://littlehandsbigwork.com/activities/}, 2024.
+
+\bibitem{naturalbeachliving2}
+Natural Beach Living.
+Outdoor and nature activities.
+\url{https://naturalbeachliving.com/outdoor-activities/}, 2024.
+
+\bibitem{learncreatelove}
+Learn Create Love.
+Educational craft activities.
+\url{https://learncreatelove.com/activities/}, 2024.
+
+\bibitem{themavenmom}
+The Maven Mom.
+Modern parenting activities.
+\url{https://themavenmom.com/activities/}, 2024.
+
+\bibitem{parentingfromtheheart}
+Parenting from the Heart.
+Conscious parenting activities.
+\url{https://parentingfromtheheart.com/activities/}, 2024.
+
+\bibitem{adventuresofadam}
+Adventures of Adam.
+Toddler activities and adventures.
+\url{https://www.adventuresofadam.co.uk/activities/}, 2024.
+
+\bibitem{trueaimeducation}
+True Aim Education.
+Educational activities and resources.
+\url{https://trueaimeducation.com/activities/}, 2024.
+
+\bibitem{thecraftingchicks}
+The Crafting Chicks.
+DIY crafts and activities.
+\url{https://www.thecraftingchicks.com/activities/}, 2024.
+
+\bibitem{playandlearneveryday}
+Play and Learn Every Day.
+Daily activity ideas for kids.
+\url{https://playandlearneveryday.com/activities/}, 2024.
+
+\bibitem{theinspirationboard}
+The Inspiration Board.
+Creative inspiration and activities.
+\url{https://theinspirationboard.com/activities/}, 2024.
+
+\bibitem{createdinthepit}
+Created in the Pit.
+Faith-based family activities.
+\url{https://createdinthepit.com/activities/}, 2024.
+
+\bibitem{happilyeveradventures}
+Happily Ever Adventures.
+Family adventure activities.
+\url{https://happilyeveradventures.com/activities/}, 2024.
+
+\bibitem{thesproutingsprouts}
+The Sprouting Sprouts.
+Activities for growing families.
+\url{https://thesproutingsprouts.com/activities/}, 2024.
+
+\bibitem{themeasuredlife}
+The Measured Life.
+Organized family activities.
+\url{https://themeasuredlife.com/activities/}, 2024.

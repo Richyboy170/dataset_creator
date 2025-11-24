@@ -1,0 +1,4 @@
+Create 2 files: new_dataset, updated_latex.
+Read these 2 files before work: example_dataset.csv, latex.txt
+
+add more 1000+ dataset rows from extracting from websites over the internet about different activities people in different range of ages do. I will put the link of the website that are already used in latex.txt, do NOT use those link again. The example_dataset.csv is the format of the dataset that I want, read it first before taking research. Also create a file that is Latex reference which look like my Latex ref and put all the websites that you put its data in that dataset in the Latex file.
